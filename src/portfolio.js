@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Nofiu Pelumi Portfolio",
     type: "website",
-    url: "https://peldargacademy.tech/",
+    url: "https://nofiupelumi.github.io/",
   },
 };
 
