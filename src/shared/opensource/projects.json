@@ -1,22 +1,17 @@
 {
   "data": [
     {
-      "id": "R_kgDOK9Cfcg",
-      "name": "Bike-Buyers-Analysis-with-Excel",
-      "createdAt": "2023-12-23T16:28:58Z",
-      "url": "https://github.com/nofiupelumi/Bike-Buyers-Analysis-with-Excel",
-      "description": "Excel Data Analysis ",
-      "isFork": false,
-      "languages": []
-    },
-    {
-      "id": "R_kgDOLA1ylA",
-      "name": "ML-Christmas-blockbuster-Prediction",
-      "createdAt": "2024-01-04T18:10:24Z",
-      "url": "https://github.com/nofiupelumi/ML-Christmas-blockbuster-Prediction",
-      "description": "Predicting the success of the next christmas blockbuster",
+      "id": "R_kgDOOPz1aA",
+      "name": "ML-Web-deployment-nigeria-security-risk-index",
+      "createdAt": "2025-03-20T00:00:00Z",
+      "url": "https://github.com/nofiupelumi/ML-Web-deployment-nigeria-security-risk-index",
+      "description": "Interactive ML dashboard analysing 25,945 security incidents (2018–2024) across all 36 Nigerian states — with risk scores, trend analysis, perpetrator tracking, and predictive 2026 forecasts.",
       "isFork": false,
       "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
         {
           "name": "Jupyter Notebook",
           "iconifyClass": "logos-jupyter"
@@ -24,38 +19,69 @@
       ]
     },
     {
-      "id": "R_kgDOMDE2CA",
-      "name": "Power-BI-Capstone-Project",
-      "createdAt": "2024-05-31T09:06:19Z",
-      "url": "https://github.com/nofiupelumi/Power-BI-Capstone-Project",
-      "description": "FCB Dubizzle Company Used Cars Sales Dashboard (Group9 Project)",
-      "isFork": false,
-      "languages": []
-    },
-    {
-      "id": "R_kgDOMO1Bdg",
-      "name": "Sharepoint-site-for-IT-Department",
-      "createdAt": "2024-06-27T10:05:30Z",
-      "url": "https://github.com/nofiupelumi/Sharepoint-site-for-IT-Department",
-      "description": "Description: Documentation and resources for the IT Department SharePoint site at Risk Control Service, including site structure, automation details, and page images.",
-      "isFork": false,
-      "languages": []
-    },
-    {
       "id": "R_kgDOOIGkaQ",
       "name": "AWS-CHATBOT",
       "createdAt": "2025-03-13T16:04:53Z",
       "url": "https://github.com/nofiupelumi/AWS-CHATBOT",
-      "description": "Building chatbot with AWS using Amazon bedrock, kendra, lambda , groq and gradio.",
+      "description": "Serverless FAQ chatbot built with AWS Bedrock, Kendra, Lambda, Groq API, and Gradio — fully cloud-native with secure IAM-based access control.",
       "isFork": false,
-      "languages": []
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "logos-aws"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHrDash",
+      "name": "Hr_Dashboard_Automated_CV_Screening",
+      "createdAt": "2024-11-10T00:00:00Z",
+      "url": "https://github.com/nofiupelumi/Hr_Dashboard_Automated_CV_Screening",
+      "description": "Full-stack HR analytics dashboard with automated CV screening — integrates Python, Power BI, and Excel to streamline candidate pipeline management.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGroqBot",
+      "name": "chatbot-groq-laravel",
+      "createdAt": "2025-01-15T00:00:00Z",
+      "url": "https://github.com/nofiupelumi/chatbot-groq-laravel",
+      "description": "Production-grade AI chatbot built with Groq API and Laravel — features secure REST endpoints, session management, and a responsive chat UI deployed on Hugging Face Spaces.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "PHP",
+          "iconifyClass": "logos-php"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
     },
     {
       "id": "R_kgDONirahw",
       "name": "Miss-Unity-Nigeria-Website",
       "createdAt": "2024-12-27T00:15:50Z",
       "url": "https://github.com/nofiupelumi/Miss-Unity-Nigeria-Website",
-      "description": "Pageant Websites for Miss Unity Nigeria",
+      "description": "Live full-stack pageant website for Miss Unity Nigeria — built with PHP, JavaScript, and CSS, featuring contestant profiles, voting, and gallery modules.",
       "isFork": false,
       "languages": [
         {
@@ -71,6 +97,103 @@
           "iconifyClass": "logos-css-3"
         }
       ]
+    },
+    {
+      "id": "R_kgDOMO1Bdg",
+      "name": "Sharepoint-site-for-IT-Department",
+      "createdAt": "2024-06-27T10:05:30Z",
+      "url": "https://github.com/nofiupelumi/Sharepoint-site-for-IT-Department",
+      "description": "Enterprise IT Department intranet on SharePoint with Power Automate workflows — documents structure, automation rules, and deployment for Risk Control Service.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDODisney",
+      "name": "Disney-Analytics-Project",
+      "createdAt": "2024-03-01T00:00:00Z",
+      "url": "https://github.com/nofiupelumi/Disney-Analytics-Project",
+      "description": "Marketing analytics capstone (Boston University AD654) — applied ML clustering, sentiment analysis, and Tableau dashboards to Disney consumer and campaign data.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOAttBot",
+      "name": "Daily-attendance-bot-portal4security",
+      "createdAt": "2024-08-01T00:00:00Z",
+      "url": "https://github.com/nofiupelumi/Daily-attendance-bot-portal4security",
+      "description": "Node.js bot that automates daily staff attendance logging to a web portal — runs on a schedule, handles authentication, and sends automated status reports.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOSSLCrt",
+      "name": "sslcert_expiration_notifier",
+      "createdAt": "2024-09-01T00:00:00Z",
+      "url": "https://github.com/nofiupelumi/sslcert_expiration_notifier",
+      "description": "DevOps automation tool that monitors SSL certificate expiry dates, logs results to a shared Excel/SharePoint list, and sends automated email alerts before expiration.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOScraper",
+      "name": "Multiple-Webscraper-Automation",
+      "createdAt": "2024-07-01T00:00:00Z",
+      "url": "https://github.com/nofiupelumi/Multiple-Webscraper-Automation",
+      "description": "Multi-source news scraper pipeline that aggregates headlines from multiple Nigerian outlets, processes and deduplicates articles, and auto-emails a daily digest.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOCapstone",
+      "name": "Google-Data-Analytics-Capstone-Project",
+      "createdAt": "2024-02-01T00:00:00Z",
+      "url": "https://github.com/nofiupelumi/Google-Data-Analytics-Capstone-Project",
+      "description": "Google Professional Certificate capstone — full data analysis lifecycle for Cyclistic bike-share using R, ggplot2, and Tableau to drive membership conversion strategy.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "R",
+          "iconifyClass": "logos-r-lang"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOMDE2CA",
+      "name": "Power-BI-Capstone-Project",
+      "createdAt": "2024-05-31T09:06:19Z",
+      "url": "https://github.com/nofiupelumi/Power-BI-Capstone-Project",
+      "description": "Business intelligence capstone for FCB Dubizzle — built an end-to-end Power BI used-car sales dashboard with DAX measures, KPI cards, and drill-through reports.",
+      "isFork": false,
+      "languages": []
     }
   ]
 }
