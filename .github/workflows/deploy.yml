@@ -34,4 +34,3 @@ jobs:
           external_repository: nofiupelumi/nofiupelumi.github.io
           publish_branch: main
           publish_dir: ./build
-          cname: peldargacademy.tech
